@@ -1,6 +1,6 @@
 # Generative AI with AWS - Nanodegree Project Repository
 
-
+<img width="733" height="610" alt="image" src="https://github.com/user-attachments/assets/1bd740b2-22b3-4f89-94ca-37181f1c6e40" />
 
 ## 🎉 About This Course
 
@@ -43,13 +43,10 @@ Studied AWS Responsible AI Framework covering six pillars:
 
 ## 🎯 Key Achievements
 - ✅ **AWS Educate Machine Learning Foundations Badge**  
-  ![AWS Badge](path/to/aws-badge.png)  
+  ![AWS Badge]: (https://www.credly.com/badges/2ebea529-1336-44b5-a705-a79e02f0dfc2/public_url)
 - ✅ **PartyRock App Project** - Functional generative AI application  
 - ✅ Practical skills in prompt engineering, model fine-tuning, and ethical AI practices  
 - ✅ **Certificate of Completion**  
-  ![Certificate](path/to/certificate-image.png)  
 
 ---
-
-## 📂 Repository Structure
 
